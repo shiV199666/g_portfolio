@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/g_portfolio/static/css/main.387467c6.css",
-    "main.js": "/g_portfolio/static/js/main.091e19c9.js",
+    "main.css": "/g_portfolio/static/css/main.91d2fe6b.css",
+    "main.js": "/g_portfolio/static/js/main.525d00c7.js",
     "static/media/bgVideo.webm": "/g_portfolio/static/media/bgVideo.342bad191d14e01572b7.webm",
+    "static/media/reverie.mp4": "/g_portfolio/static/media/reverie.cebc52b754d71080f1dc.mp4",
     "static/media/Video-95.mp4": "/g_portfolio/static/media/Video-95.d3f81da5783e7357661e.mp4",
+    "static/media/suaveMundane.mp4": "/g_portfolio/static/media/suaveMundane.f33d1f83ff11489f542c.mp4",
+    "static/media/Nagwa.mp4": "/g_portfolio/static/media/Nagwa.340e16cd7e2ea70bbd18.mp4",
     "static/media/g.png": "/g_portfolio/static/media/g.1dde73081fad3b98d22d.png",
     "static/media/bgImage.png": "/g_portfolio/static/media/bgImage.827ede7cfdffd9a67f47.png",
     "static/media/headerLogo.png": "/g_portfolio/static/media/headerLogo.cf7d311c301e916bed8c.png",
@@ -13,11 +16,11 @@
     "static/media/slick.ttf": "/g_portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/g_portfolio/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/g_portfolio/index.html",
-    "main.387467c6.css.map": "/g_portfolio/static/css/main.387467c6.css.map",
-    "main.091e19c9.js.map": "/g_portfolio/static/js/main.091e19c9.js.map"
+    "main.91d2fe6b.css.map": "/g_portfolio/static/css/main.91d2fe6b.css.map",
+    "main.525d00c7.js.map": "/g_portfolio/static/js/main.525d00c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.387467c6.css",
-    "static/js/main.091e19c9.js"
+    "static/css/main.91d2fe6b.css",
+    "static/js/main.525d00c7.js"
   ]
 }
