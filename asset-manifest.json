@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/g_portfolio/static/css/main.78c350e1.css",
-    "main.js": "/g_portfolio/static/js/main.0f092702.js",
+    "main.css": "/g_portfolio/static/css/main.d1d0beb8.css",
+    "main.js": "/g_portfolio/static/js/main.ec01a9a5.js",
     "reactPlayerYouTube.js": "/g_portfolio/static/js/reactPlayerYouTube.4d935626.chunk.js",
     "reactPlayerSoundCloud.js": "/g_portfolio/static/js/reactPlayerSoundCloud.d80165fb.chunk.js",
     "reactPlayerVimeo.js": "/g_portfolio/static/js/reactPlayerVimeo.6198789e.chunk.js",
@@ -64,6 +64,7 @@
     "static/media/SpyK.jpg": "/g_portfolio/static/media/SpyK.86fdf5b4132709da7778.jpg",
     "static/media/Namata-BoldItalic.ttf": "/g_portfolio/static/media/Namata-BoldItalic.47c38c97f6930ce3f175.ttf",
     "static/media/Namata-Bold.ttf": "/g_portfolio/static/media/Namata-Bold.c11a11e9d961147558da.ttf",
+    "static/media/Namata-Light.ttf": "/g_portfolio/static/media/Namata-Light.0d25c4bec96cac2c4fe9.ttf",
     "static/media/Asaya.jpg": "/g_portfolio/static/media/Asaya.d65299ead0a2ba655ed1.jpg",
     "static/media/To6.jpg": "/g_portfolio/static/media/To6.3a680a2ab7a1ee9b39dd.jpg",
     "static/media/Mello.jpg": "/g_portfolio/static/media/Mello.3d8b0e874b6272a0dbc0.jpg",
@@ -85,8 +86,8 @@
     "static/media/Arnav.PNG": "/g_portfolio/static/media/Arnav.87fb5eb1169e09fe4392.PNG",
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
-    "main.78c350e1.css.map": "/g_portfolio/static/css/main.78c350e1.css.map",
-    "main.0f092702.js.map": "/g_portfolio/static/js/main.0f092702.js.map",
+    "main.d1d0beb8.css.map": "/g_portfolio/static/css/main.d1d0beb8.css.map",
+    "main.ec01a9a5.js.map": "/g_portfolio/static/js/main.ec01a9a5.js.map",
     "reactPlayerYouTube.4d935626.chunk.js.map": "/g_portfolio/static/js/reactPlayerYouTube.4d935626.chunk.js.map",
     "reactPlayerSoundCloud.d80165fb.chunk.js.map": "/g_portfolio/static/js/reactPlayerSoundCloud.d80165fb.chunk.js.map",
     "reactPlayerVimeo.6198789e.chunk.js.map": "/g_portfolio/static/js/reactPlayerVimeo.6198789e.chunk.js.map",
@@ -103,7 +104,7 @@
     "reactPlayerPreview.3c94810a.chunk.js.map": "/g_portfolio/static/js/reactPlayerPreview.3c94810a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.78c350e1.css",
-    "static/js/main.0f092702.js"
+    "static/css/main.d1d0beb8.css",
+    "static/js/main.ec01a9a5.js"
   ]
 }
