@@ -1,7 +1,9 @@
 {
   "files": {
-    "main.css": "/g_portfolio/static/css/main.686c36f8.css",
-    "main.js": "/g_portfolio/static/js/main.e59de947.js",
+    "main.css": "/g_portfolio/static/css/main.efeb060c.css",
+    "main.js": "/g_portfolio/static/js/main.993a3837.js",
+    "static/js/300.b9593cea.chunk.js": "/g_portfolio/static/js/300.b9593cea.chunk.js",
+    "static/js/656.7cfbbd3e.chunk.js": "/g_portfolio/static/js/656.7cfbbd3e.chunk.js",
     "reactPlayerYouTube.js": "/g_portfolio/static/js/reactPlayerYouTube.4d935626.chunk.js",
     "reactPlayerSoundCloud.js": "/g_portfolio/static/js/reactPlayerSoundCloud.d80165fb.chunk.js",
     "reactPlayerVimeo.js": "/g_portfolio/static/js/reactPlayerVimeo.6198789e.chunk.js",
@@ -16,6 +18,7 @@
     "reactPlayerKaltura.js": "/g_portfolio/static/js/reactPlayerKaltura.5df4fcd9.chunk.js",
     "reactPlayerFilePlayer.js": "/g_portfolio/static/js/reactPlayerFilePlayer.88340829.chunk.js",
     "reactPlayerPreview.js": "/g_portfolio/static/js/reactPlayerPreview.3c94810a.chunk.js",
+    "static/js/112.7dd031d4.chunk.js": "/g_portfolio/static/js/112.7dd031d4.chunk.js",
     "static/media/Shecommerz.mp4": "/g_portfolio/static/media/Shecommerz.e71c291334a42694173c.mp4",
     "static/media/Asaya.mp4": "/g_portfolio/static/media/Asaya.add5a37e306f96323043.mp4",
     "static/media/Reverie.mp4": "/g_portfolio/static/media/Reverie.6b65f51ff31dddefac80.mp4",
@@ -86,8 +89,10 @@
     "static/media/Arnav.PNG": "/g_portfolio/static/media/Arnav.87fb5eb1169e09fe4392.PNG",
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
-    "main.686c36f8.css.map": "/g_portfolio/static/css/main.686c36f8.css.map",
-    "main.e59de947.js.map": "/g_portfolio/static/js/main.e59de947.js.map",
+    "main.efeb060c.css.map": "/g_portfolio/static/css/main.efeb060c.css.map",
+    "main.993a3837.js.map": "/g_portfolio/static/js/main.993a3837.js.map",
+    "300.b9593cea.chunk.js.map": "/g_portfolio/static/js/300.b9593cea.chunk.js.map",
+    "656.7cfbbd3e.chunk.js.map": "/g_portfolio/static/js/656.7cfbbd3e.chunk.js.map",
     "reactPlayerYouTube.4d935626.chunk.js.map": "/g_portfolio/static/js/reactPlayerYouTube.4d935626.chunk.js.map",
     "reactPlayerSoundCloud.d80165fb.chunk.js.map": "/g_portfolio/static/js/reactPlayerSoundCloud.d80165fb.chunk.js.map",
     "reactPlayerVimeo.6198789e.chunk.js.map": "/g_portfolio/static/js/reactPlayerVimeo.6198789e.chunk.js.map",
@@ -101,10 +106,11 @@
     "reactPlayerVidyard.ff808a98.chunk.js.map": "/g_portfolio/static/js/reactPlayerVidyard.ff808a98.chunk.js.map",
     "reactPlayerKaltura.5df4fcd9.chunk.js.map": "/g_portfolio/static/js/reactPlayerKaltura.5df4fcd9.chunk.js.map",
     "reactPlayerFilePlayer.88340829.chunk.js.map": "/g_portfolio/static/js/reactPlayerFilePlayer.88340829.chunk.js.map",
-    "reactPlayerPreview.3c94810a.chunk.js.map": "/g_portfolio/static/js/reactPlayerPreview.3c94810a.chunk.js.map"
+    "reactPlayerPreview.3c94810a.chunk.js.map": "/g_portfolio/static/js/reactPlayerPreview.3c94810a.chunk.js.map",
+    "112.7dd031d4.chunk.js.map": "/g_portfolio/static/js/112.7dd031d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.686c36f8.css",
-    "static/js/main.e59de947.js"
+    "static/css/main.efeb060c.css",
+    "static/js/main.993a3837.js"
   ]
 }
