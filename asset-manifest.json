@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/g_portfolio/static/css/main.efeb060c.css",
-    "main.js": "/g_portfolio/static/js/main.fddb8cb1.js",
-    "static/js/300.b9593cea.chunk.js": "/g_portfolio/static/js/300.b9593cea.chunk.js",
+    "main.css": "/g_portfolio/static/css/main.0dc7114d.css",
+    "main.js": "/g_portfolio/static/js/main.1ce252bc.js",
+    "static/js/300.a2c1d05f.chunk.js": "/g_portfolio/static/js/300.a2c1d05f.chunk.js",
     "static/js/656.5d1b076a.chunk.js": "/g_portfolio/static/js/656.5d1b076a.chunk.js",
     "static/media/Mello.mp4": "/g_portfolio/static/media/Mello.a2f2d49104bfdf245a4d.mp4",
     "static/media/Shecommerz.mp4": "/g_portfolio/static/media/Shecommerz.b678349daef1932b8b6a.mp4",
@@ -42,10 +42,10 @@
     "static/media/shecommerce.jpg": "/g_portfolio/static/media/shecommerce.2bb5e665729c8c7d028a.jpg",
     "static/media/FTV.jpg": "/g_portfolio/static/media/FTV.5244d276c51951f7efc4.jpg",
     "static/media/mokodora.jpg": "/g_portfolio/static/media/mokodora.2c158861948699f81405.jpg",
-    "static/media/Tanmay_Biyani.webp": "/g_portfolio/static/media/Tanmay_Biyani.242ec4e4ab280c9dc33b.webp",
     "static/media/Phula.jpg": "/g_portfolio/static/media/Phula.95cc3cf354ecedbcb621.jpg",
     "static/media/Prithvi_Raj.jpeg": "/g_portfolio/static/media/Prithvi_Raj.fd1859a015feebf3663e.jpeg",
     "static/media/Atyab.jpg": "/g_portfolio/static/media/Atyab.99e1b2743c79b7104a9d.jpg",
+    "static/media/Tanmay_Biyani.jpg": "/g_portfolio/static/media/Tanmay_Biyani.2e9d66e69a8cf9759f00.jpg",
     "static/media/nothing.jpg": "/g_portfolio/static/media/nothing.4e42e2c1f05e6408ea1a.jpg",
     "static/media/Tiara.jpeg": "/g_portfolio/static/media/Tiara.b8009d1e9ede777364e6.jpeg",
     "static/media/Maha.jpg": "/g_portfolio/static/media/Maha.b99e5a675e4d8a2d13f3.jpg",
@@ -74,13 +74,13 @@
     "static/media/Arnav.PNG": "/g_portfolio/static/media/Arnav.87fb5eb1169e09fe4392.PNG",
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
-    "main.efeb060c.css.map": "/g_portfolio/static/css/main.efeb060c.css.map",
-    "main.fddb8cb1.js.map": "/g_portfolio/static/js/main.fddb8cb1.js.map",
-    "300.b9593cea.chunk.js.map": "/g_portfolio/static/js/300.b9593cea.chunk.js.map",
+    "main.0dc7114d.css.map": "/g_portfolio/static/css/main.0dc7114d.css.map",
+    "main.1ce252bc.js.map": "/g_portfolio/static/js/main.1ce252bc.js.map",
+    "300.a2c1d05f.chunk.js.map": "/g_portfolio/static/js/300.a2c1d05f.chunk.js.map",
     "656.5d1b076a.chunk.js.map": "/g_portfolio/static/js/656.5d1b076a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efeb060c.css",
-    "static/js/main.fddb8cb1.js"
+    "static/css/main.0dc7114d.css",
+    "static/js/main.1ce252bc.js"
   ]
 }
