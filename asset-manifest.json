@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/g_portfolio/static/css/main.96dd62c4.css",
-    "main.js": "/g_portfolio/static/js/main.7330fd0d.js",
+    "main.js": "/g_portfolio/static/js/main.ee1cb04f.js",
     "static/css/191.6e781f62.chunk.css": "/g_portfolio/static/css/191.6e781f62.chunk.css",
     "static/js/191.8dfdcf4c.chunk.js": "/g_portfolio/static/js/191.8dfdcf4c.chunk.js",
-    "static/js/104.b1b53a3a.chunk.js": "/g_portfolio/static/js/104.b1b53a3a.chunk.js",
+    "static/js/334.b4a40061.chunk.js": "/g_portfolio/static/js/334.b4a40061.chunk.js",
     "static/js/127.3dac8355.chunk.js": "/g_portfolio/static/js/127.3dac8355.chunk.js",
     "reactPlayerYouTube.js": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js",
     "reactPlayerSoundCloud.js": "/g_portfolio/static/js/reactPlayerSoundCloud.c4997c84.chunk.js",
@@ -65,7 +65,6 @@
     "static/media/Keif.webm": "/g_portfolio/static/media/Keif.d3c513db86e4e956813e.webm",
     "static/media/Aravind_DOP.jpg": "/g_portfolio/static/media/Aravind_DOP.25d0fb8b82415f6d8285.jpg",
     "static/media/g.png": "/g_portfolio/static/media/g.1dde73081fad3b98d22d.png",
-    "static/media/To6.jpg": "/g_portfolio/static/media/To6.8094af439b10d849c995.jpg",
     "static/media/suave.webp": "/g_portfolio/static/media/suave.2c0e1b186630beb97a5a.webp",
     "static/media/AsayaEverything.webp": "/g_portfolio/static/media/AsayaEverything.8bf163f40ad05efa9377.webp",
     "static/media/Arnav.webp": "/g_portfolio/static/media/Arnav.7509abaad221b7a5d6bb.webp",
@@ -101,6 +100,7 @@
     "static/media/Maha.webp": "/g_portfolio/static/media/Maha.73f3eb399b4752282c94.webp",
     "static/media/FormOfStyle.webp": "/g_portfolio/static/media/FormOfStyle.e4b17b398c7c48f2b776.webp",
     "static/media/Asaya.webp": "/g_portfolio/static/media/Asaya.39d9eff794fc5157d046.webp",
+    "static/media/Nothing_Logo.webp": "/g_portfolio/static/media/Nothing_Logo.75bb190c181076273413.webp",
     "static/media/Tiara.jpg": "/g_portfolio/static/media/Tiara.0c0721a2ceb70f1883e9.jpg",
     "static/media/PhonePe.png": "/g_portfolio/static/media/PhonePe.41223b411c337a42f311.png",
     "static/media/arnavClient.jpg": "/g_portfolio/static/media/arnavClient.87ea6a837622140d7a3c.jpg",
@@ -110,18 +110,19 @@
     "static/media/Acqua.webp": "/g_portfolio/static/media/Acqua.f9e0a3c52dbd415d11c2.webp",
     "static/media/Mokobara.jpg": "/g_portfolio/static/media/Mokobara.50b72660fc2640f9941e.jpg",
     "static/media/M8.webp": "/g_portfolio/static/media/M8.d84171faa2d6b6573d66.webp",
+    "static/media/asayaClient.webp": "/g_portfolio/static/media/asayaClient.d2caf4afc88861bee0d2.webp",
     "static/media/Nail_Station.webp": "/g_portfolio/static/media/Nail_Station.0880a29b81df216c8250.webp",
     "static/media/Modish.png": "/g_portfolio/static/media/Modish.7aafcc0dfdc77542fa08.png",
-    "static/media/asayaClient.jpg": "/g_portfolio/static/media/asayaClient.54a703ec1d3472b1828f.jpg",
     "static/media/Tribeof6.webp": "/g_portfolio/static/media/Tribeof6.141b940d6ac5cd1a2ec3.webp",
     "static/media/Arnav.PNG": "/g_portfolio/static/media/Arnav.87fb5eb1169e09fe4392.PNG",
+    "static/media/MokobaraClient.webp": "/g_portfolio/static/media/MokobaraClient.04bcdc76a44385da5f38.webp",
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
     "main.96dd62c4.css.map": "/g_portfolio/static/css/main.96dd62c4.css.map",
-    "main.7330fd0d.js.map": "/g_portfolio/static/js/main.7330fd0d.js.map",
+    "main.ee1cb04f.js.map": "/g_portfolio/static/js/main.ee1cb04f.js.map",
     "191.6e781f62.chunk.css.map": "/g_portfolio/static/css/191.6e781f62.chunk.css.map",
     "191.8dfdcf4c.chunk.js.map": "/g_portfolio/static/js/191.8dfdcf4c.chunk.js.map",
-    "104.b1b53a3a.chunk.js.map": "/g_portfolio/static/js/104.b1b53a3a.chunk.js.map",
+    "334.b4a40061.chunk.js.map": "/g_portfolio/static/js/334.b4a40061.chunk.js.map",
     "127.3dac8355.chunk.js.map": "/g_portfolio/static/js/127.3dac8355.chunk.js.map",
     "reactPlayerYouTube.e30e6a4f.chunk.js.map": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js.map",
     "reactPlayerSoundCloud.c4997c84.chunk.js.map": "/g_portfolio/static/js/reactPlayerSoundCloud.c4997c84.chunk.js.map",
@@ -141,6 +142,6 @@
   },
   "entrypoints": [
     "static/css/main.96dd62c4.css",
-    "static/js/main.7330fd0d.js"
+    "static/js/main.ee1cb04f.js"
   ]
 }
