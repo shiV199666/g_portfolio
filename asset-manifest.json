@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/g_portfolio/static/css/main.6310d815.css",
+    "main.css": "/g_portfolio/static/css/main.2b38f6c7.css",
     "main.js": "/g_portfolio/static/js/main.b1a1aed7.js",
     "static/css/191.e4a9013c.chunk.css": "/g_portfolio/static/css/191.e4a9013c.chunk.css",
     "static/js/191.5a986d9c.chunk.js": "/g_portfolio/static/js/191.5a986d9c.chunk.js",
@@ -118,7 +118,7 @@
     "static/media/MokobaraClient.webp": "/g_portfolio/static/media/MokobaraClient.04bcdc76a44385da5f38.webp",
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
-    "main.6310d815.css.map": "/g_portfolio/static/css/main.6310d815.css.map",
+    "main.2b38f6c7.css.map": "/g_portfolio/static/css/main.2b38f6c7.css.map",
     "main.b1a1aed7.js.map": "/g_portfolio/static/js/main.b1a1aed7.js.map",
     "191.e4a9013c.chunk.css.map": "/g_portfolio/static/css/191.e4a9013c.chunk.css.map",
     "191.5a986d9c.chunk.js.map": "/g_portfolio/static/js/191.5a986d9c.chunk.js.map",
@@ -141,7 +141,7 @@
     "43.30456ac4.chunk.js.map": "/g_portfolio/static/js/43.30456ac4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6310d815.css",
+    "static/css/main.2b38f6c7.css",
     "static/js/main.b1a1aed7.js"
   ]
 }
