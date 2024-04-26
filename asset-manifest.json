@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/g_portfolio/static/css/main.e4bbc6fb.css",
-    "main.js": "/g_portfolio/static/js/main.00b19e9f.js",
-    "static/css/191.e3b223f9.chunk.css": "/g_portfolio/static/css/191.e3b223f9.chunk.css",
-    "static/js/191.77c74d85.chunk.js": "/g_portfolio/static/js/191.77c74d85.chunk.js",
+    "main.css": "/g_portfolio/static/css/main.bbe2fe1d.css",
+    "main.js": "/g_portfolio/static/js/main.08679c1c.js",
+    "static/css/191.e4a9013c.chunk.css": "/g_portfolio/static/css/191.e4a9013c.chunk.css",
+    "static/js/191.4ec51036.chunk.js": "/g_portfolio/static/js/191.4ec51036.chunk.js",
     "static/js/334.b4a40061.chunk.js": "/g_portfolio/static/js/334.b4a40061.chunk.js",
     "static/js/127.3dac8355.chunk.js": "/g_portfolio/static/js/127.3dac8355.chunk.js",
     "reactPlayerYouTube.js": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js",
@@ -118,10 +118,10 @@
     "static/media/MokobaraClient.webp": "/g_portfolio/static/media/MokobaraClient.04bcdc76a44385da5f38.webp",
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
-    "main.e4bbc6fb.css.map": "/g_portfolio/static/css/main.e4bbc6fb.css.map",
-    "main.00b19e9f.js.map": "/g_portfolio/static/js/main.00b19e9f.js.map",
-    "191.e3b223f9.chunk.css.map": "/g_portfolio/static/css/191.e3b223f9.chunk.css.map",
-    "191.77c74d85.chunk.js.map": "/g_portfolio/static/js/191.77c74d85.chunk.js.map",
+    "main.bbe2fe1d.css.map": "/g_portfolio/static/css/main.bbe2fe1d.css.map",
+    "main.08679c1c.js.map": "/g_portfolio/static/js/main.08679c1c.js.map",
+    "191.e4a9013c.chunk.css.map": "/g_portfolio/static/css/191.e4a9013c.chunk.css.map",
+    "191.4ec51036.chunk.js.map": "/g_portfolio/static/js/191.4ec51036.chunk.js.map",
     "334.b4a40061.chunk.js.map": "/g_portfolio/static/js/334.b4a40061.chunk.js.map",
     "127.3dac8355.chunk.js.map": "/g_portfolio/static/js/127.3dac8355.chunk.js.map",
     "reactPlayerYouTube.e30e6a4f.chunk.js.map": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js.map",
@@ -141,7 +141,7 @@
     "43.30456ac4.chunk.js.map": "/g_portfolio/static/js/43.30456ac4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4bbc6fb.css",
-    "static/js/main.00b19e9f.js"
+    "static/css/main.bbe2fe1d.css",
+    "static/js/main.08679c1c.js"
   ]
 }
