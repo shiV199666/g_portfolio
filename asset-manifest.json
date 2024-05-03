@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/g_portfolio/static/css/main.1d007eb0.css",
-    "main.js": "/g_portfolio/static/js/main.901ff39b.js",
+    "main.css": "/g_portfolio/static/css/main.8aa7e281.css",
+    "main.js": "/g_portfolio/static/js/main.2cea4062.js",
     "reactPlayerYouTube.js": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js",
     "reactPlayerSoundCloud.js": "/g_portfolio/static/js/reactPlayerSoundCloud.c4997c84.chunk.js",
     "reactPlayerVimeo.js": "/g_portfolio/static/js/reactPlayerVimeo.ca8f25c9.chunk.js",
@@ -45,10 +45,7 @@
     "static/media/RAZORPAY.png": "/g_portfolio/static/media/RAZORPAY.a8e54f7f4cb84848fb6f.png",
     "static/media/Reverie.webp": "/g_portfolio/static/media/Reverie.7d981a2b742e8257ba74.webp",
     "static/media/Dhruv_Kashyap.jpg": "/g_portfolio/static/media/Dhruv_Kashyap.8a768f72faccf33161e9.jpg",
-    "static/media/Namata-BoldItalic.ttf": "/g_portfolio/static/media/Namata-BoldItalic.47c38c97f6930ce3f175.ttf",
-    "static/media/Namata-Bold.ttf": "/g_portfolio/static/media/Namata-Bold.c11a11e9d961147558da.ttf",
     "static/media/mokodora.webp": "/g_portfolio/static/media/mokodora.e244fdaf536c087b794b.webp",
-    "static/media/Namata-Light.ttf": "/g_portfolio/static/media/Namata-Light.0d25c4bec96cac2c4fe9.ttf",
     "static/media/Atyab.webp": "/g_portfolio/static/media/Atyab.8b90b1ee61bd30587790.webp",
     "static/media/Nail_Station.jpg": "/g_portfolio/static/media/Nail_Station.99aa7b058fc90ad191d2.jpg",
     "static/media/ArnavCofounder.webp": "/g_portfolio/static/media/ArnavCofounder.38e26505491cb9cedbb2.webp",
@@ -87,8 +84,8 @@
     "static/media/MokobaraClient.webp": "/g_portfolio/static/media/MokobaraClient.04bcdc76a44385da5f38.webp",
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
-    "main.1d007eb0.css.map": "/g_portfolio/static/css/main.1d007eb0.css.map",
-    "main.901ff39b.js.map": "/g_portfolio/static/js/main.901ff39b.js.map",
+    "main.8aa7e281.css.map": "/g_portfolio/static/css/main.8aa7e281.css.map",
+    "main.2cea4062.js.map": "/g_portfolio/static/js/main.2cea4062.js.map",
     "reactPlayerYouTube.e30e6a4f.chunk.js.map": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js.map",
     "reactPlayerSoundCloud.c4997c84.chunk.js.map": "/g_portfolio/static/js/reactPlayerSoundCloud.c4997c84.chunk.js.map",
     "reactPlayerVimeo.ca8f25c9.chunk.js.map": "/g_portfolio/static/js/reactPlayerVimeo.ca8f25c9.chunk.js.map",
@@ -107,7 +104,7 @@
     "127.9f67e330.chunk.js.map": "/g_portfolio/static/js/127.9f67e330.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d007eb0.css",
-    "static/js/main.901ff39b.js"
+    "static/css/main.8aa7e281.css",
+    "static/js/main.2cea4062.js"
   ]
 }
