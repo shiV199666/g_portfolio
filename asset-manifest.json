@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/g_portfolio/static/css/main.ddd58d21.css",
-    "main.js": "/g_portfolio/static/js/main.9f5c0daa.js",
+    "main.css": "/g_portfolio/static/css/main.9de48c69.css",
+    "main.js": "/g_portfolio/static/js/main.d49f4f6b.js",
     "reactPlayerYouTube.js": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js",
     "reactPlayerSoundCloud.js": "/g_portfolio/static/js/reactPlayerSoundCloud.c4997c84.chunk.js",
     "reactPlayerVimeo.js": "/g_portfolio/static/js/reactPlayerVimeo.ca8f25c9.chunk.js",
@@ -17,7 +17,7 @@
     "reactPlayerFilePlayer.js": "/g_portfolio/static/js/reactPlayerFilePlayer.034421bd.chunk.js",
     "reactPlayerPreview.js": "/g_portfolio/static/js/reactPlayerPreview.e5954b15.chunk.js",
     "static/js/334.e05bad35.chunk.js": "/g_portfolio/static/js/334.e05bad35.chunk.js",
-    "static/js/127.f53147e1.chunk.js": "/g_portfolio/static/js/127.f53147e1.chunk.js",
+    "static/js/127.8ff962d2.chunk.js": "/g_portfolio/static/js/127.8ff962d2.chunk.js",
     "static/media/Aravind_DOP.jpg": "/g_portfolio/static/media/Aravind_DOP.25d0fb8b82415f6d8285.jpg",
     "static/media/FormOfStyle.jpg": "/g_portfolio/static/media/FormOfStyle.44483d037c291dc19760.jpg",
     "static/media/Mello.jpg": "/g_portfolio/static/media/Mello.b12b516776cc09ca22b1.jpg",
@@ -54,7 +54,6 @@
     "static/media/ArnavCofounder.webp": "/g_portfolio/static/media/ArnavCofounder.38e26505491cb9cedbb2.webp",
     "static/media/Rewind.webp": "/g_portfolio/static/media/Rewind.133364f8cf15ae89aba0.webp",
     "static/media/headerLogo.png": "/g_portfolio/static/media/headerLogo.d7726c4a49abf3494f08.png",
-    "static/media/logo.png": "/g_portfolio/static/media/logo.c24762461cdb301cf3cd.png",
     "static/media/Phula.webp": "/g_portfolio/static/media/Phula.7429ea94e3546e91a6ae.webp",
     "static/media/Acqua.jpg": "/g_portfolio/static/media/Acqua.c8af238b16a5c6ce9cba.jpg",
     "static/media/SpyK.webp": "/g_portfolio/static/media/SpyK.94dc37d02913eda07259.webp",
@@ -88,8 +87,8 @@
     "static/media/MokobaraClient.webp": "/g_portfolio/static/media/MokobaraClient.04bcdc76a44385da5f38.webp",
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
-    "main.ddd58d21.css.map": "/g_portfolio/static/css/main.ddd58d21.css.map",
-    "main.9f5c0daa.js.map": "/g_portfolio/static/js/main.9f5c0daa.js.map",
+    "main.9de48c69.css.map": "/g_portfolio/static/css/main.9de48c69.css.map",
+    "main.d49f4f6b.js.map": "/g_portfolio/static/js/main.d49f4f6b.js.map",
     "reactPlayerYouTube.e30e6a4f.chunk.js.map": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js.map",
     "reactPlayerSoundCloud.c4997c84.chunk.js.map": "/g_portfolio/static/js/reactPlayerSoundCloud.c4997c84.chunk.js.map",
     "reactPlayerVimeo.ca8f25c9.chunk.js.map": "/g_portfolio/static/js/reactPlayerVimeo.ca8f25c9.chunk.js.map",
@@ -105,10 +104,10 @@
     "reactPlayerFilePlayer.034421bd.chunk.js.map": "/g_portfolio/static/js/reactPlayerFilePlayer.034421bd.chunk.js.map",
     "reactPlayerPreview.e5954b15.chunk.js.map": "/g_portfolio/static/js/reactPlayerPreview.e5954b15.chunk.js.map",
     "334.e05bad35.chunk.js.map": "/g_portfolio/static/js/334.e05bad35.chunk.js.map",
-    "127.f53147e1.chunk.js.map": "/g_portfolio/static/js/127.f53147e1.chunk.js.map"
+    "127.8ff962d2.chunk.js.map": "/g_portfolio/static/js/127.8ff962d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ddd58d21.css",
-    "static/js/main.9f5c0daa.js"
+    "static/css/main.9de48c69.css",
+    "static/js/main.d49f4f6b.js"
   ]
 }
