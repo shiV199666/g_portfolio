@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/g_portfolio/static/css/main.8aa7e281.css",
-    "main.js": "/g_portfolio/static/js/main.2cea4062.js",
+    "main.js": "/g_portfolio/static/js/main.20ee34d8.js",
     "reactPlayerYouTube.js": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js",
     "reactPlayerSoundCloud.js": "/g_portfolio/static/js/reactPlayerSoundCloud.c4997c84.chunk.js",
     "reactPlayerVimeo.js": "/g_portfolio/static/js/reactPlayerVimeo.ca8f25c9.chunk.js",
@@ -16,7 +16,7 @@
     "reactPlayerKaltura.js": "/g_portfolio/static/js/reactPlayerKaltura.634b1f19.chunk.js",
     "reactPlayerFilePlayer.js": "/g_portfolio/static/js/reactPlayerFilePlayer.034421bd.chunk.js",
     "reactPlayerPreview.js": "/g_portfolio/static/js/reactPlayerPreview.e5954b15.chunk.js",
-    "static/js/334.e05bad35.chunk.js": "/g_portfolio/static/js/334.e05bad35.chunk.js",
+    "static/js/334.0b7b53f1.chunk.js": "/g_portfolio/static/js/334.0b7b53f1.chunk.js",
     "static/js/127.9f67e330.chunk.js": "/g_portfolio/static/js/127.9f67e330.chunk.js",
     "static/media/Aravind_DOP.jpg": "/g_portfolio/static/media/Aravind_DOP.25d0fb8b82415f6d8285.jpg",
     "static/media/FormOfStyle.jpg": "/g_portfolio/static/media/FormOfStyle.44483d037c291dc19760.jpg",
@@ -85,7 +85,7 @@
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
     "main.8aa7e281.css.map": "/g_portfolio/static/css/main.8aa7e281.css.map",
-    "main.2cea4062.js.map": "/g_portfolio/static/js/main.2cea4062.js.map",
+    "main.20ee34d8.js.map": "/g_portfolio/static/js/main.20ee34d8.js.map",
     "reactPlayerYouTube.e30e6a4f.chunk.js.map": "/g_portfolio/static/js/reactPlayerYouTube.e30e6a4f.chunk.js.map",
     "reactPlayerSoundCloud.c4997c84.chunk.js.map": "/g_portfolio/static/js/reactPlayerSoundCloud.c4997c84.chunk.js.map",
     "reactPlayerVimeo.ca8f25c9.chunk.js.map": "/g_portfolio/static/js/reactPlayerVimeo.ca8f25c9.chunk.js.map",
@@ -100,11 +100,11 @@
     "reactPlayerKaltura.634b1f19.chunk.js.map": "/g_portfolio/static/js/reactPlayerKaltura.634b1f19.chunk.js.map",
     "reactPlayerFilePlayer.034421bd.chunk.js.map": "/g_portfolio/static/js/reactPlayerFilePlayer.034421bd.chunk.js.map",
     "reactPlayerPreview.e5954b15.chunk.js.map": "/g_portfolio/static/js/reactPlayerPreview.e5954b15.chunk.js.map",
-    "334.e05bad35.chunk.js.map": "/g_portfolio/static/js/334.e05bad35.chunk.js.map",
+    "334.0b7b53f1.chunk.js.map": "/g_portfolio/static/js/334.0b7b53f1.chunk.js.map",
     "127.9f67e330.chunk.js.map": "/g_portfolio/static/js/127.9f67e330.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8aa7e281.css",
-    "static/js/main.2cea4062.js"
+    "static/js/main.20ee34d8.js"
   ]
 }
