@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgautammonangifilms=self.webpackChunkgautammonangifilms||[]).push([[280],{2280:(a,e,n)=>{n.r(e),n.d(e,{fadeIn:()=>t});const t=(a,e)=>({hidden:{y:"up"===a?80:"down"===a?-80:0,opacity:0,x:"left"===a?80:"right"===a?-80:0},show:{y:0,x:0,opacity:1,transition:{type:"tween",duration:.5,delay:e,ease:[.25,.25,.25,.75]}}})}}]);
+//# sourceMappingURL=280.4ddbc8b5.chunk.js.map
