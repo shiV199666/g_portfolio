@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/g_portfolio/static/css/main.9c956224.css",
-    "main.js": "/g_portfolio/static/js/main.68abbe9a.js",
+    "main.css": "/g_portfolio/static/css/main.e5ff6483.css",
+    "main.js": "/g_portfolio/static/js/main.b68158d3.js",
     "reactPlayerPreview.js": "/g_portfolio/static/js/reactPlayerPreview.e5954b15.chunk.js",
     "static/js/334.78bce1d4.chunk.js": "/g_portfolio/static/js/334.78bce1d4.chunk.js",
     "static/js/127.92acbcfa.chunk.js": "/g_portfolio/static/js/127.92acbcfa.chunk.js",
@@ -71,14 +71,14 @@
     "static/media/MokobaraClient.webp": "/g_portfolio/static/media/MokobaraClient.04bcdc76a44385da5f38.webp",
     "static/media/keif.webp": "/g_portfolio/static/media/keif.28c3100e80a942195482.webp",
     "index.html": "/g_portfolio/index.html",
-    "main.9c956224.css.map": "/g_portfolio/static/css/main.9c956224.css.map",
-    "main.68abbe9a.js.map": "/g_portfolio/static/js/main.68abbe9a.js.map",
+    "main.e5ff6483.css.map": "/g_portfolio/static/css/main.e5ff6483.css.map",
+    "main.b68158d3.js.map": "/g_portfolio/static/js/main.b68158d3.js.map",
     "reactPlayerPreview.e5954b15.chunk.js.map": "/g_portfolio/static/js/reactPlayerPreview.e5954b15.chunk.js.map",
     "334.78bce1d4.chunk.js.map": "/g_portfolio/static/js/334.78bce1d4.chunk.js.map",
     "127.92acbcfa.chunk.js.map": "/g_portfolio/static/js/127.92acbcfa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c956224.css",
-    "static/js/main.68abbe9a.js"
+    "static/css/main.e5ff6483.css",
+    "static/js/main.b68158d3.js"
   ]
 }
